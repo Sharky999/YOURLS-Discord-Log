@@ -3,7 +3,7 @@
 Plugin Name: Discord Logs
 Plugin URI: https://github.com/Sharky999/YOURLS-Discord-Log
 Description: Send notifications to Discord when someone visits a shortened URL
-Version: 1.2
+Version: 1.3
 Author: Sharky999
 Author URI: https://sharkytmp.report/sharky
 */
